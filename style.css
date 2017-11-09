@@ -1,0 +1,32 @@
+.matrix-area {
+  border-style: solid;
+  border-width: 1px;
+  width: 320px;
+  height: 320px;
+}
+.matrix-row {
+  padding: 0px;
+  vertical-align: top;
+  clear: none;
+}
+.matrix-cell {
+  padding: 0px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.alive {
+  background-color: black;
+}
+.dead {
+  background-color: white;
+}
+
+.control-menu {
+  border-style: solid;
+  border-width: 1px;
+  vertical-align: top;
+  clear: none;
+  width: 320px;
+  height: 20px;
+}
