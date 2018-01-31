@@ -1,2 +1,2 @@
 # conways-game-of-life
-simple implementation of Conway's game of life in JS
+Simple implementation of Conway's game of life in JS. View it [here](http://people.emich.edu/elewis23/CGOL/)
